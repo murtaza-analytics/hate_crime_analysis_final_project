@@ -9,6 +9,8 @@ Contents
 
 Final project report (PDF)
 
+Introduction and literature review (PDF)
+
 Dataset used for analysis
 
 statistical analysis and visualizations
